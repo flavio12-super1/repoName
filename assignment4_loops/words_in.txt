@@ -1,0 +1,8 @@
+apple
+bat
+cat
+dog
+eat
+fun
+gamble
+heavy
